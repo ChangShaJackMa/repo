@@ -1,2 +1,6 @@
 repo1:op1
+<<<<<<< HEAD
 repo1:op3
+=======
+repo2:op2
+repo1:op4
